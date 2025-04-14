@@ -22,7 +22,8 @@
 # 📝 Publications 
 <!-- 加点表情包,直接复制图片即可  https://github.com/guodongxiaren/README/blob/master/emoji.md?tdsourcetag=s_pcqq_aiomsg -->
 
-A full publication list is available on my [google scholar](https://scholar.google.com/citations?user=yuiXa5EAAAAJ&hl=en&oi=ao) page.
+
+A full publication list is available on <a href="https://scholar.google.com/citations?user=yuiXa5EAAAAJ&hl=en&oi=ao">[Google Scholar]</a> <a href="https://www.semanticscholar.org/author/Zhen-Xing/2099118205">[Semantic Scholar]</a>
 
 (*: equal contribution; †: corresponding authors.)
 
