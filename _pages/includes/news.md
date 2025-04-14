@@ -1,8 +1,8 @@
 # 🔥 News
 <!-- 加点表情包,直接复制图片即可  https://github.com/guodongxiaren/README/blob/master/emoji.md?tdsourcetag=s_pcqq_aiomsg -->
+- [Apr'2025] Achieved over **500+** citations on Google Scholar and an h-index of **11**.
 - [Mar'2025] Released [MagicMotion](https://quanhaol.github.io/magicmotion-site/), an open-sourced trajectory-guided video generation model.
 - [Feb'2025] StableAnimator is accepted by [CVPR 2025](https://cvpr.thecvf.com/) and achieved over **1200+** Github stars.
-- [Jan'2025] Achieved over **400+** citations on Google Scholar and an h-index of **10**.
 - [Sep'2024] **Two** papers are accepted by [NeurIPS 2024](https://neurips.cc/Conferences/2024).
 - [Aug'2024] "A Survey on Video Diffusion Models" is accepted by ACM Computing Surveys.
 - [Feb'2024] Invited talk at Openmmlab about Video Generation Models, [[slides](/VideoGenerationModel.pdf)].
