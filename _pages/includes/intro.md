@@ -10,7 +10,7 @@ I am a Ph.D. Candidate at the School of Computer Science, [Fudan University](htt
 
 
 
-I have published 15+ papers <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fgoogle-scholar-badge.vercel.app%2Fcitations%3Fuser%3DyuiXa5EAAAAJ" alt="Citation Badge" style="display: inline;"> <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/chenhsing"  style="display: inline;">
+I have published 15+ papers <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fgoogle-scholar-badge.vercel.app%2Fcitations%3Fuser%3DyuiXa5EAAAAJ" alt="Citation Badge" style="display: inline;"> <img alt="GitHub User's stars" src="https://shields.io/github/stars/chenhsing"  style="display: inline;">
  at the top international AI conferences such as CVPR, NeurIPS, ECCV. My current research interests include:
 - 1️⃣ 🌟🌟🌟 Generative models: text-to-video generation, video editing, controllable visual generation
 - 2️⃣ Representation learning: video understanding, 3D understanding, image retrieval
