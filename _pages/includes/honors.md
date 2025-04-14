@@ -12,4 +12,6 @@ Below, I exhasutively list some of my Honors and Awards that inspire me a lot.
 - Academic scholarship of Tianjin University. (**Top-10%**) [2017-2020]
 
 
-<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=4Q0C2hbvOIEMef7kUY89rXg94Lm7HnpASKfrJXfXMZ0"></script>
+<div style="width: 150px; height: 150px; overflow: hidden;">
+  <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=4Q0C2hbvOIEMef7kUY89rXg94Lm7HnpASKfrJXfXMZ0"></script>
+</div>
