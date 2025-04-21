@@ -7,10 +7,12 @@
 I am a Ph.D. Candidate at the School of Computer Science, [Fudan University](https://www.fudan.edu.cn/en/), where I work at [Vision and Learning Lab (FVL)](https://fvl.fudan.edu.cn/main.htm) under the supervision of Prof. [Yu-Gang Jiang](https://scholar.google.com/citations?user=f3_FP8AAAAAJ&hl=en) (IEEE Fellow) and Prof. [Zuxuan Wu](https://zxwu.azurewebsites.net/). Before this, I received my BS degree from [Tianjin University](http://www.tju.edu.cn/english/index.htm).  
 
 
-<a href='https://scholar.google.com/citations?user=yuiXa5EAAAAJ'><img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FChenHsing%2FChenHsing.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
 
 
-I have published 15+ papers  <a href="https://github.com/ChenHsing">
+
+
+
+I have published 15+ papers <a href='https://scholar.google.com/citations?user=yuiXa5EAAAAJ'><img src="https://raw.githubusercontent.com/ChenHsing/Citation_Parser/main/scholar_badge.svg"></a> <a href="https://github.com/ChenHsing">
     <img alt="GitHub User's stars" 
          src="https://img.shields.io/github/stars/chenhsing?affiliations=OWNER%2CCOLLABORATOR"  
          style="display: inline;"></a>
