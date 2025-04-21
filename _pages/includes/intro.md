@@ -12,7 +12,7 @@ I am a Ph.D. Candidate at the School of Computer Science, [Fudan University](htt
 
 
 
-I have published 15+ papers <a href='https://scholar.google.com/citations?user=yuiXa5EAAAAJ'><img src="https://raw.githubusercontent.com/ChenHsing/Citation_Parser/main/scholar_badge.svg"></a> <a href="https://github.com/ChenHsing">
+I have published 15+ papers <a href='https://scholar.google.com/citations?user=yuiXa5EAAAAJ'><img alt="Google citations"  src="https://raw.githubusercontent.com/ChenHsing/Citation_Parser/main/scholar_badge.svg" style="display: inline;"></a> <a href="https://github.com/ChenHsing">
     <img alt="GitHub User's stars" 
          src="https://img.shields.io/github/stars/chenhsing?affiliations=OWNER%2CCOLLABORATOR"  
          style="display: inline;"></a>
