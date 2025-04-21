@@ -1,6 +1,6 @@
 <!-- 加点表情包,直接复制图片即可  https://github.com/guodongxiaren/README/blob/master/emoji.md?tdsourcetag=s_pcqq_aiomsg -->
 
-
+{% if site.google_scholar_stats_use_cdn %} {% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %} {% else %} {% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %} {% endif %} {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 
 
@@ -11,10 +11,8 @@ I am a Ph.D. Candidate at the School of Computer Science, [Fudan University](htt
 
 
 
-I have published 15+ papers <a href="https://scholar.google.com/citations?user=yuiXa5EAAAAJ&hl=en&oi=ao">
-    <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fgoogle-scholar-badge.vercel.app%2Fcitations%3Fuser%3DyuiXa5EAAAAJ" 
-         alt="Citation Badge" 
-         style="display: inline;"></a> <a href="https://github.com/ChenHsing">
+
+I have published 15+ papers <a href='https://scholar.google.com/citations?user=yuiXa5EAAAAJ'><img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FChenHsing%2FChenHsing.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>. <a href="https://github.com/ChenHsing">
     <img alt="GitHub User's stars" 
          src="https://img.shields.io/github/stars/chenhsing?affiliations=OWNER%2CCOLLABORATOR"  
          style="display: inline;"></a>
