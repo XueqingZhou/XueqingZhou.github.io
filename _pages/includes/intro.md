@@ -1,12 +1,8 @@
 <!-- 加点表情包,直接复制图片即可  https://github.com/guodongxiaren/README/blob/master/emoji.md?tdsourcetag=s_pcqq_aiomsg -->
 
-{% if site.google_scholar_stats_use_cdn %} {% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %} {% else %} {% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %} {% endif %} {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
-
 
 
 I am a Ph.D. Candidate at the School of Computer Science, [Fudan University](https://www.fudan.edu.cn/en/), where I work at [Vision and Learning Lab (FVL)](https://fvl.fudan.edu.cn/main.htm) under the supervision of Prof. [Yu-Gang Jiang](https://scholar.google.com/citations?user=f3_FP8AAAAAJ&hl=en) (IEEE Fellow) and Prof. [Zuxuan Wu](https://zxwu.azurewebsites.net/). Before this, I received my BS degree from [Tianjin University](http://www.tju.edu.cn/english/index.htm).  
-
-
 
 
 
