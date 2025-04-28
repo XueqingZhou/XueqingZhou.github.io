@@ -30,37 +30,34 @@ A full publication list is available on <a href="https://scholar.google.com/cita
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Video Generation</div><img src='../../images/videogen.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-<th style="text-align:left" width="70%"> <span style="font-size:18px">A Survey on Video Diffusion Models</span><br> <span style="font-size:16px">Zhen Xing<span style="font-weight:normal">, Qijun Feng, Haoran Chen, Qi Dai, Han Hu, Hang Xu, Zuxuan Wu, Yu-Gang Jiang</span></span><br> <span style="font-weight:normal;font-size:16px">  ACM Computing Survey (<strong>CSUR, IF=23.8</strong>), 2024</span><br> <span style="font-weight:normal;font-size:16px">[<a href="https://arxiv.org/abs/2310.10647">Paper</a>][<a href="https://github.com/ChenHsing/Awesome-Video-Diffusion-Models">HomePage</a>][<a href="https://zhuanlan.zhihu.com/p/661860981">Zhihu</a>][<a href="https://mp.weixin.qq.com/s/qes6C8UbEYArnVKU3eu9QQ">机器之心</a>][<a href="https://mp.weixin.qq.com/s/viC_J08bVIVRzvRYxRyQTw">量子位</a>]</span><br> <span style="color: red;"> Surveying 300+ recent literatures on video generation and editing with diffusion models. Acheving Github 2000+ stars.
+<th style="text-align:left" width="70%"> <strong style="font-size:18px" >A Survey on Video Diffusion Models</strong><br> <strong style="font-size:16px">Zhen Xing <span style="font-weight:normal">, Qijun Feng, Haoran Chen, Qi Dai, Han Hu, Hang Xu, Zuxuan Wu, Yu-Gang Jiang</span></span><br> <span style="font-weight:normal;font-size:16px">  ACM Computing Survey (<strong>CSUR, IF=23.8</strong>), 2024</span><br> <span style="font-weight:normal;font-size:16px">[<a href="https://arxiv.org/abs/2310.10647">Paper</a>][<a href="https://github.com/ChenHsing/Awesome-Video-Diffusion-Models">HomePage</a>][<a href="https://zhuanlan.zhihu.com/p/661860981">Zhihu</a>][<a href="https://mp.weixin.qq.com/s/qes6C8UbEYArnVKU3eu9QQ">机器之心</a>][<a href="https://mp.weixin.qq.com/s/viC_J08bVIVRzvRYxRyQTw">量子位</a>]</span><br> <span style="color: red;"> Surveying 300+ recent literatures on video generation and editing with diffusion models. Acheving Github 2000+ stars.
 </span>
 </th>
-
 </div>
 </div>
 
 
-<!-- <table style="width:100%"><tbody><tr><th width="30%"><div class="image-container"> <img src="../../images/videogen.jpg" width="350"> <div class="label">Video Generation</div></div></th>
 
-<th style="text-align:left" width="70%"> <span style="font-size:18px">A Survey on Video Diffusion Models</span><br> <span style="font-size:16px">Zhen Xing<span style="font-weight:normal">, Qijun Feng, Haoran Chen, Qi Dai, Han Hu, Hang Xu, Zuxuan Wu, Yu-Gang Jiang</span></span><br> <span style="font-weight:normal;font-size:16px">  ACM Computing Survey (<strong>CSUR, IF=23.8</strong>), 2024</span><br> <span style="font-weight:normal;font-size:16px">[<a href="https://arxiv.org/abs/2310.10647">Paper</a>][<a href="https://github.com/ChenHsing/Awesome-Video-Diffusion-Models">HomePage</a>][<a href="https://zhuanlan.zhihu.com/p/661860981">Zhihu</a>][<a href="https://mp.weixin.qq.com/s/qes6C8UbEYArnVKU3eu9QQ">机器之心</a>][<a href="https://mp.weixin.qq.com/s/viC_J08bVIVRzvRYxRyQTw">量子位</a>]</span><br> <span style="color: red;"> Surveying 300+ recent literatures on video generation and editing with diffusion models. Acheving Github 2000+ stars.
-</span>
-</th>
-</tr></tbody></table> -->
-
-
-<table style="width:100%">
-<tbody><tr><th width="30%"> <div class="image-container"> <img src="../../images/simda.jpg" width="350"> <div class="label">Video Generation</div></div>
-</th><th style="text-align:left" width="70%"> 
-<span style="font-size:18px">SimDA: A Simple Diffusion Adapter for Efficient Video Generation</span><br> 
-<span style="font-size:16px">Zhen Xing<span style="font-weight:normal">, Qi Dai, Han Hu, Zuxuan Wu, Yu-Gang Jiang</span></span><br>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Video Generation</div><img src='../../images/simda.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+<strong style="font-size:18px">SimDA: A Simple Diffusion Adapter for Efficient Video Generation</strong><br> 
+<strong style="font-size:16px">Zhen Xing<span style="font-weight:normal">, Qi Dai, Han Hu, Zuxuan Wu, Yu-Gang Jiang</span></span><br>
  <span style="font-weight:normal;font-size:16px">IEEE/CVF Conference on Computer Vision and Pattern Recognition (<strong>CVPR</strong>), 2024 </span><br> 
  <span style="font-weight:normal;font-size:16px">[<a href="https://arxiv.org/abs/2308.09710">Paper</a>][<a href="https://chenhsing.github.io/SimDA/">HomePage</a>]
-</span></th></tr></tbody></table>
+</span></th></div>
+</div>
 
-<table style="width:100%"><tbody><tr><th width="30%"><div class="image-container"> <img src="../../images/stableanimator.jpg" width="350"> <div class="label">Video Generation</div></div>
-</th><th style="text-align:left" width="70%"> <span style="font-size:18px">StableAnimator: High-Quality Identity-Preserving Human Image Animation
-</span><br> <span style="font-weight:normal;font-size:16px">Shuyuan Tu, </span> <span style="font-size:16px">Zhen Xing<span style="font-weight:normal">, Xintong Han, Zhi-Qi Cheng, Qi Dai, Chong Luo, Zuxuan Wu</span></span><br> <span style="font-weight:normal;font-size:16px"> IEEE/CVF Conference on Computer Vision and Pattern Recognition (<strong>CVPR</strong>), 2025</span><br> <span style="font-weight:normal;font-size:16px">[<a href="https://arxiv.org/abs/2411.17697">Paper</a>][<a href="https://github.com/Francis-Rings/StableAnimator">Code</a>][<a href="https://francis-rings.github.io/StableAnimator/">Homepage</a>][<a href="https://mp.weixin.qq.com/s/qK3s-us2XeDv7phW83W5BQ">机器之心</a>]</span><br> <span style="color: red;"> Acheving Github 1200+ stars.
+<!-- <table style="width:100%"><tbody><tr><th width="30%"><div class="image-container"> <img src="../../images/stableanimator.jpg" width="350"> <div class="label">Video Generation</div></div>
+</th><th style="text-align:left" width="70%"> -->
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Video Generation</div><img src='../../images/stableanimator.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+ <strong style="font-size:18px">StableAnimator: High-Quality Identity-Preserving Human Image Animation
+</strong><br> <span style="font-weight:normal;font-size:16px">Shuyuan Tu, </span> <strong style="font-size:16px">Zhen Xing<span style="font-weight:normal">, Xintong Han, Zhi-Qi Cheng, Qi Dai, Chong Luo, Zuxuan Wu</span></span><br> <span style="font-weight:normal;font-size:16px"> IEEE/CVF Conference on Computer Vision and Pattern Recognition (<strong>CVPR</strong>), 2025</span><br> <span style="font-weight:normal;font-size:16px">[<a href="https://arxiv.org/abs/2411.17697">Paper</a>][<a href="https://github.com/Francis-Rings/StableAnimator">Code</a>][<a href="https://francis-rings.github.io/StableAnimator/">Homepage</a>][<a href="https://mp.weixin.qq.com/s/qK3s-us2XeDv7phW83W5BQ">机器之心</a>]</span><br> <span style="color: red;"> Acheving Github 1200+ stars.
 </span>
 </th>
-</tr></tbody></table>
+</div>
+</div>
 
 
 <table style="width:100%"><tbody><tr><th width="30%"><div class="image-container"> <img src="../../images/magicmotion.jpg" width="350"> <div class="label">Video Generation</div></div></th><th style="text-align:left" width="70%"> <span style="font-size:18px">MagicMotion: Controllable Video Generation with Dense-to-Sparse Trajectory Guidance </span><br> <span style="font-weight:normal;font-size:16px">Quanhao Li*</span>, <span style="font-size:16px">Zhen Xing*<span style="font-weight:normal">, Rui Wang, Hui Zhang, Zuxuan Wu</span></span><br> <span style="font-weight:normal;font-size:16px">Technical Report, 2025 </span><br> <span style="font-weight:normal;font-size:16px">[<a href="https://arxiv.org/pdf/2503.16421">Paper</a>][<a href="https://github.com/quanhaol/MagicMotion/">Code</a>][<a href="https://quanhaol.github.io/magicmotion-site/">HomePage</a>][<a href="https://mp.weixin.qq.com/s/oGI4NIkVv9xV-pC19LLc3g">量子位</a>]
