@@ -2,8 +2,7 @@
 
 
 
-I am a Ph.D. Candidate at the School of Computer Science, [Fudan University](https://www.fudan.edu.cn/en/), where I work at [Vision and Learning Lab (FVL)](https://fvl.fudan.edu.cn/main.htm) under the supervision of Prof. [Yu-Gang Jiang](https://scholar.google.com/citations?user=f3_FP8AAAAAJ&hl=en) (IEEE Fellow) and Prof. [Zuxuan Wu](https://zxwu.azurewebsites.net/). Before this, I received my BS degree from [Tianjin University](http://www.tju.edu.cn/english/index.htm).  
-
+I am the final-year Ph.D. Candidate at the School of Computer Science, [Fudan University](https://www.fudan.edu.cn/en/), where I work at [Vision and Learning Lab (FVL)](https://fvl.fudan.edu.cn/main.htm) under the supervision of Prof. [Yu-Gang Jiang](https://scholar.google.com/citations?user=f3_FP8AAAAAJ&hl=en) (IEEE Fellow) and Prof. [Zuxuan Wu](https://zxwu.azurewebsites.net/). Before this, I received my BS degree from [Tianjin University](http://www.tju.edu.cn/english/index.htm).  
 
 
 
@@ -18,5 +17,11 @@ I have published 15+ papers <a href='https://scholar.google.com/citations?user=y
 
 <!-- I am set to graduate in 2025 and am actively <span style="color:red; font-weight:bold">seeking job opportunities in both industry and academia</span>.  -->
 
-I will join Alibaba Tongyi Lab as a Research Scientist, dedicating myself to research on the video-generation model <a href='https://github.com/Wan-Video/Wan2.1'><img alt="wan"  src="../../images/wanlogo.png" style="display: inline;"></a>.
+I will join Alibaba Tongyi Lab as a Research Scientist, dedicating myself to research on the video-generation model <a href="https://github.com/Wan-Video/Wan2.1"><img
+    alt="wan"
+    src="../../images/wanlogo.png"
+    style="display: inline-block;
+      height: 1em;
+      width: auto;
+      vertical-align: text-bottom;"></a>
 If you are interested in discussing potential collaborations, please feel free to email me at [zhenxingfd@gmail.com](mailto:zhenxingfd@gmail.com).
