@@ -15,7 +15,6 @@ I have published 15+ papers <a href='https://scholar.google.com/citations?user=y
 - 1️⃣ 🌟🌟🌟 Generative models: text-to-video generation, controllable visual generation, video editing
 - 2️⃣ Representation learning: video understanding, 3D understanding, image retrieval
 
-<!-- I am set to graduate in 2025 and am actively <span style="color:red; font-weight:bold">seeking job opportunities in both industry and academia</span>.  -->
 
 I will join Alibaba Tongyi Lab as a Research Scientist, dedicating myself to research on the video-generation model <a href="https://github.com/Wan-Video/Wan2.1"><img
     alt="wan"
@@ -23,5 +22,5 @@ I will join Alibaba Tongyi Lab as a Research Scientist, dedicating myself to res
     style="display: inline-block;
       height: 1em;
       width: auto;
-      vertical-align: text-bottom;"></a>
+      vertical-align: text-bottom;"></a>.
 If you are interested in discussing potential collaborations, please feel free to email me at [zhenxingfd@gmail.com](mailto:zhenxingfd@gmail.com).

@@ -41,7 +41,7 @@ A full publication list is available on <a href="https://scholar.google.com/cita
 <strong style="font-size:18px">SimDA: A Simple Diffusion Adapter for Efficient Video Generation</strong><br> 
 <strong style="font-size:16px">Zhen Xing<span style="font-weight:normal">, Qi Dai, Han Hu, Zuxuan Wu, Yu-Gang Jiang</span><br>
  <span style="font-weight:normal;font-size:16px">IEEE/CVF Conference on Computer Vision and Pattern Recognition (<strong>CVPR</strong>), 2024 </span><br> 
- <span style="font-weight:normal;font-size:16px">[<a href="https://arxiv.org/abs/2308.09710">Paper</a>][<a href="https://chenhsing.github.io/SimDA/">HomePage</a>]
+ <span style="font-weight:normal;font-size:16px">[<a href="https://arxiv.org/abs/2308.09710">Paper</a>][<a href="https://chenhsing.github.io/SimDA/">HomePage</a>]</span><br> <span style="color: red;"> The first Parameter-efficient Text-to-Video generation model.
 </span>
 </div>
 </div>
@@ -50,7 +50,7 @@ A full publication list is available on <a href="https://scholar.google.com/cita
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Video Generation</div><img src='../../images/stableanimator.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
  <strong style="font-size:18px">StableAnimator: High-Quality Identity-Preserving Human Image Animation
-</strong><br> <span style="font-weight:normal;font-size:16px">Shuyuan Tu, </span> <strong style="font-size:16px">Zhen Xing<span style="font-weight:normal">, Xintong Han, Zhi-Qi Cheng, Qi Dai, Chong Luo, Zuxuan Wu</span><br> <span style="font-weight:normal;font-size:16px"> IEEE/CVF Conference on Computer Vision and Pattern Recognition (<strong>CVPR</strong>), 2025</span><br> <span style="font-weight:normal;font-size:16px">[<a href="https://arxiv.org/abs/2411.17697">Paper</a>][<a href="https://github.com/Francis-Rings/StableAnimator">Code</a>][<a href="https://francis-rings.github.io/StableAnimator/">Homepage</a>][<a href="https://mp.weixin.qq.com/s/qK3s-us2XeDv7phW83W5BQ">机器之心</a>]</span><br> <span style="color: red;"> Acheving Github 1200+ stars.
+</strong><br> <span style="font-weight:normal;font-size:16px">Shuyuan Tu, </span> <strong style="font-size:16px">Zhen Xing<span style="font-weight:normal">, Xintong Han, Zhi-Qi Cheng, Qi Dai, Chong Luo, Zuxuan Wu</span><br> <span style="font-weight:normal;font-size:16px"> IEEE/CVF Conference on Computer Vision and Pattern Recognition (<strong>CVPR</strong>), 2025</span><br> <span style="font-weight:normal;font-size:16px">[<a href="https://arxiv.org/abs/2411.17697">Paper</a>][<a href="https://github.com/Francis-Rings/StableAnimator">Code</a>][<a href="https://francis-rings.github.io/StableAnimator/">Homepage</a>][<a href="https://mp.weixin.qq.com/s/qK3s-us2XeDv7phW83W5BQ">机器之心</a>]</span><br> <span style="color: red;"> Acheving Github 1300+ stars.
 </span>
 </div>
 </div>
