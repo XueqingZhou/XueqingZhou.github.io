@@ -7,9 +7,10 @@ I am the final-year Ph.D. Candidate at the School of Computer Science, [Fudan Un
 
 
 
+
 I have published 15+ papers <a href='https://scholar.google.com/citations?user=yuiXa5EAAAAJ'><img alt="Google citations"  src="https://raw.githubusercontent.com/ChenHsing/Citation_Parser/main/scholar_badge.svg" style="display: inline;"></a> <a href="https://github.com/ChenHsing">
     <img alt="GitHub User's stars" 
-         src="https://img.shields.io/github/stars/chenhsing?affiliations=OWNER%2CCOLLABORATOR"  
+         src="https://img.shields.io/github/stars/chenhsing?affiliations=OWNER%2CCOLLABORATOR&style=flat&logo=github&logoColor=%23000000&labelColor=%23fbbc05&color=%23615ced"  
          style="display: inline;"></a>
  at the top international AI conferences such as CVPR, NeurIPS, ECCV. My current research interests include:
 - 1️⃣ 🌟🌟🌟 Generative models: text-to-video generation, controllable visual generation, video editing
