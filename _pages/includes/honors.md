@@ -2,6 +2,7 @@
 Below, I exhasutively list some of my Honors and Awards that inspire me a lot.
 
 - Outstanding graduates of Shanghai. (**Top-1%, PhD**) [2025]
+- Alibaba Star Program and Tencent Qingyun Plan. [2025]
 - Tencent academic scholarship. (**Top-3%, PhD**) [2024]
 - Fudan University excellent academic scholarship. (**Top-5%, PhD**) [2023]
 - "Star of Tomorrow" intern of MicroSoft Research Asia. (**Top 10%, PhD**)[2023]
