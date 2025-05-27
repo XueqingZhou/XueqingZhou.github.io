@@ -25,7 +25,7 @@
 
 A full publication list is available on <a href="https://scholar.google.com/citations?user=yuiXa5EAAAAJ&hl=en&oi=ao">[Google Scholar]</a> <a href="https://www.semanticscholar.org/author/Zhen-Xing/2099118205">[Semantic Scholar]</a>
 
-(*: equal contribution; †: corresponding authors.)
+(*: equal contribution; †: project leader.)
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Video Generation</div><img src='../../images/videogen.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -50,7 +50,7 @@ A full publication list is available on <a href="https://scholar.google.com/cita
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Video Generation</div><img src='../../images/stableanimator.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
  <strong style="font-size:18px">StableAnimator: High-Quality Identity-Preserving Human Image Animation
-</strong><br> <span style="font-weight:normal;font-size:16px">Shuyuan Tu, </span> <strong style="font-size:16px">Zhen Xing<span style="font-weight:normal">, Xintong Han, Zhi-Qi Cheng, Qi Dai, Chong Luo, Zuxuan Wu</span><br> <span style="font-weight:normal;font-size:16px"> IEEE/CVF Conference on Computer Vision and Pattern Recognition (<strong>CVPR</strong>), 2025</span><br> <span style="font-weight:normal;font-size:16px">[<a href="https://arxiv.org/abs/2411.17697">Paper</a>][<a href="https://github.com/Francis-Rings/StableAnimator">Code</a>][<a href="https://francis-rings.github.io/StableAnimator/">Homepage</a>][<a href="https://mp.weixin.qq.com/s/qK3s-us2XeDv7phW83W5BQ">机器之心</a>]</span><br> <span style="color: red;"> Acheving Github 1300+ stars.
+</strong><br> <span style="font-weight:normal;font-size:16px">Shuyuan Tu, </span> <strong style="font-size:16px">Zhen Xing†<span style="font-weight:normal">, Xintong Han, Zhi-Qi Cheng, Qi Dai, Chong Luo, Zuxuan Wu</span><br> <span style="font-weight:normal;font-size:16px"> IEEE/CVF Conference on Computer Vision and Pattern Recognition (<strong>CVPR</strong>), 2025</span><br> <span style="font-weight:normal;font-size:16px">[<a href="https://arxiv.org/abs/2411.17697">Paper</a>][<a href="https://github.com/Francis-Rings/StableAnimator">Code</a>][<a href="https://francis-rings.github.io/StableAnimator/">Homepage</a>][<a href="https://mp.weixin.qq.com/s/qK3s-us2XeDv7phW83W5BQ">机器之心</a>]</span><br> <span style="color: red;"> Acheving Github 1300+ stars.
 </span>
 </div>
 </div>
@@ -59,7 +59,7 @@ A full publication list is available on <a href="https://scholar.google.com/cita
 <!-- <table style="width:100%"><tbody><tr><th width="30%"><div class="image-container"> <img src="../../images/magicmotion.jpg" width="350"> <div class="label">Video Generation</div></div></th><th style="text-align:left" width="70%"> -->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Video Generation</div><img src='../../images/magicmotion.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
- <strong style="font-size:18px">MagicMotion: Controllable Video Generation with Dense-to-Sparse Trajectory Guidance </strong><br> <span style="font-weight:normal;font-size:16px">Quanhao Li*</span>, <strong style="font-size:16px">Zhen Xing*<span style="font-weight:normal">, Rui Wang, Hui Zhang, Zuxuan Wu</span><br> <span style="font-weight:normal;font-size:16px">Technical Report, 2025 </span><br> <span style="font-weight:normal;font-size:16px">[<a href="https://arxiv.org/pdf/2503.16421">Paper</a>][<a href="https://github.com/quanhaol/MagicMotion/">Code</a>][<a href="https://quanhaol.github.io/magicmotion-site/">HomePage</a>][<a href="https://mp.weixin.qq.com/s/oGI4NIkVv9xV-pC19LLc3g">量子位</a>]
+ <strong style="font-size:18px">MagicMotion: Controllable Video Generation with Dense-to-Sparse Trajectory Guidance </strong><br> <span style="font-weight:normal;font-size:16px">Quanhao Li*</span>, <strong style="font-size:16px">Zhen Xing*†<span style="font-weight:normal">, Rui Wang, Hui Zhang, Zuxuan Wu</span><br> <span style="font-weight:normal;font-size:16px">Technical Report, 2025 </span><br> <span style="font-weight:normal;font-size:16px">[<a href="https://arxiv.org/pdf/2503.16421">Paper</a>][<a href="https://github.com/quanhaol/MagicMotion/">Code</a>][<a href="https://quanhaol.github.io/magicmotion-site/">HomePage</a>][<a href="https://mp.weixin.qq.com/s/oGI4NIkVv9xV-pC19LLc3g">量子位</a>]
 </span>
 </div></div>
 
@@ -97,7 +97,7 @@ A full publication list is available on <a href="https://scholar.google.com/cita
 <!-- <table style="width:100%"><tbody><tr><th width="30%"> <div class="image-container"> <img src="../../images/panoswin.png" width="350"> <div class="label">3D Understanding</div></div></th><th style="text-align:left" width="70%">  -->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">3D Understanding</div><img src='../../images/panoswin.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-<strong style="font-size:18px">PanoSwin: a Pano-style Swin Transformer for Panorama Understanding </strong><br> <span style="font-weight:normal;font-size:16px">Zhixin Ling</span>, <strong style="font-size:16px">Zhen Xing<span style="font-weight:normal">, Manliang Cao, Xiangdong Zhou</span><br> <span style="font-weight:normal;font-size:16px">IEEE/CVF Conference on Computer Vision and Pattern Recognition (<strong>CVPR</strong>), 2023 </span><br> <span style="font-weight:normal;font-size:16px">[<a href="https://openaccess.thecvf.com/content/CVPR2023/papers/Ling_PanoSwin_A_Pano-Style_Swin_Transformer_for_Panorama_Understanding_CVPR_2023_paper.pdf">Paper</a>][<a href="https://github.com/1069066484/PanoSwinTransformerObjectDetection">Code</a>]
+<strong style="font-size:18px">PanoSwin: a Pano-style Swin Transformer for Panorama Understanding </strong><br> <span style="font-weight:normal;font-size:16px">Zhixin Ling</span>, <strong style="font-size:16px">Zhen Xing†<span style="font-weight:normal">, Manliang Cao, Xiangdong Zhou</span><br> <span style="font-weight:normal;font-size:16px">IEEE/CVF Conference on Computer Vision and Pattern Recognition (<strong>CVPR</strong>), 2023 </span><br> <span style="font-weight:normal;font-size:16px">[<a href="https://openaccess.thecvf.com/content/CVPR2023/papers/Ling_PanoSwin_A_Pano-Style_Swin_Transformer_for_Panorama_Understanding_CVPR_2023_paper.pdf">Paper</a>][<a href="https://github.com/1069066484/PanoSwinTransformerObjectDetection">Code</a>]
 </span>
 </div></div>
 
@@ -119,7 +119,7 @@ A full publication list is available on <a href="https://scholar.google.com/cita
 <!-- <table style="width:100%"><tbody><tr><th width="30%"> <div class="image-container"> <img src="../../images/csr.jpg" width="350"> <div class="label">Image Retrieval</div></div></th><th style="text-align:left" width="70%"> -->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Image Retrieval </div><img src='../../images/csr.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-<strong style="font-size:18px">Conditional Stroke Recovery for Fine-Grained Sketch-Based Image Retrieval </strong><br> <span style="font-weight:normal;font-size:16px">Zhixin Ling</span>, <strong style="font-size:16px">Zhen Xing<span style="font-weight:normal">,Jian Zhou, Xiangdong Zhou</span><br> <span style="font-weight:normal;font-size:16px">European Conference on Computer Vision (<strong>ECCV</strong>), 2022 </span><br> <span style="font-weight:normal;font-size:16px">[<a href="https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136860708.pdf">Paper</a>][<a href="https://github.com/1069066484/CSR-ECCV2022">Code</a>]
+<strong style="font-size:18px">Conditional Stroke Recovery for Fine-Grained Sketch-Based Image Retrieval </strong><br> <span style="font-weight:normal;font-size:16px">Zhixin Ling</span>, <strong style="font-size:16px">Zhen Xing†<span style="font-weight:normal">,Jian Zhou, Xiangdong Zhou</span><br> <span style="font-weight:normal;font-size:16px">European Conference on Computer Vision (<strong>ECCV</strong>), 2022 </span><br> <span style="font-weight:normal;font-size:16px">[<a href="https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136860708.pdf">Paper</a>][<a href="https://github.com/1069066484/CSR-ECCV2022">Code</a>]
 </span>
 </div></div>
 
