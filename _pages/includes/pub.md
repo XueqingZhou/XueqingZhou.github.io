@@ -46,8 +46,6 @@ A full publication list is available on <a href="https://scholar.google.com/cita
 </div>
 </div>
 
-<!-- <table style="width:100%"><tbody><tr><th width="30%"><div class="image-container"> <img src="../../images/stableanimator.jpg" width="350"> <div class="label">Video Generation</div></div>
-</th><th style="text-align:left" width="70%"> -->
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Video Generation</div><img src='../../images/stableanimator.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">

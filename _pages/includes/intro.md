@@ -18,5 +18,5 @@ I have published 15+ papers <a href='https://scholar.google.com/citations?user=y
 
 <!-- I am set to graduate in 2025 and am actively <span style="color:red; font-weight:bold">seeking job opportunities in both industry and academia</span>.  -->
 
-I will join Alibaba Tongyi Lab as a Research Scientist, dedicating myself to research on the video-generation model <a href='https://github.com/Wan-Video/Wan2.1'><img alt="wan"  src="../../images/wanlogo.ong" style="display: inline;"></a>.
+I will join Alibaba Tongyi Lab as a Research Scientist, dedicating myself to research on the video-generation model <a href='https://github.com/Wan-Video/Wan2.1'><img alt="wan"  src="../../images/wanlogo.png" style="display: inline;"></a>.
 If you are interested in discussing potential collaborations, please feel free to email me at [zhenxingfd@gmail.com](mailto:zhenxingfd@gmail.com).
