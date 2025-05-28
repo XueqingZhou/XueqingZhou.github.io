@@ -1,6 +1,6 @@
 # Site Settings
 title                    : "Zhen Xing (邢桢)"
-description              : "Research Scientist in Alibaba Tongyi Lab"
+description              : #"Research Scientist in Alibaba Tongyi Lab"
                          # "An AI researcher, but more precisely, a realistic idealist searching for the purpose of life."
 repository               : "ChenHsing/chenhsing.github.io"
 google_scholar_stats_use_cdn : true
@@ -18,7 +18,7 @@ baidu_site_verification  : # code-ZxFK3f4pfb
 author:
   name             : "Zhen Xing" # (xingzhen)
   avatar           : "images/xz.gif"
-  bio              : "Fudan University"
+  bio              : "Research Scientist in Alibaba Tongyi Lab"
   location         : "China"
   employer         :
   pubmed           : 
