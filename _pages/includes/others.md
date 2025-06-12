@@ -24,5 +24,8 @@
   - Knowledge-Based Systems (KBS)
   - Pattern Recognition (PR)
 
+<div style="width: 150px; height: 160px; overflow: hidden; margin-left: 20px; margin-bottom: 20px;">
+  <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=4Q0C2hbvOIEMef7kUY89rXg94Lm7HnpASKfrJXfXMZ0"></script>
+</div>
 
 
