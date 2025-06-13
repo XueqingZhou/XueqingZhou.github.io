@@ -9,8 +9,8 @@ main:
   - title: "Publications"
     url: "/#-publications"
 
-  # - title: "Educations"
-  #   url: "/#-educations"
+  - title: "Honors and Awards"
+    url: "/#-honors-and-awards"
 
   - title: "Invited Talks"
     url: "/#-invited-talks"
@@ -24,5 +24,3 @@ main:
   # - title: "Invited Talks"
     # url: "/#-invited-talks"
 
-  - title: "Honors and Awards"
-    url: "/#-honors-and-awards"
