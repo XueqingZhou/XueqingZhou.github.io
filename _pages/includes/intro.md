@@ -2,9 +2,7 @@
 
 
 
-I am a final-year Ph.D. Candidate at the School of Computer Science, [Fudan University](https://www.fudan.edu.cn/en/), where I work in the [Vision and Learning Lab (FVL)](https://fvl.fudan.edu.cn/main.htm) under the supervision of Prof. [Yu-Gang Jiang](https://scholar.google.com/citations?user=f3_FP8AAAAAJ&hl=en) (IEEE Fellow) and Prof. [Zuxuan Wu](https://zxwu.azurewebsites.net/). Before this, I received my B.S. degree from [Tianjin University](http://www.tju.edu.cn/english/index.htm).  
-
-
+I obtained my Ph.D. degree in Computer Science from [Fudan University](https://www.fudan.edu.cn/en/), supervised by Prof. [Yu-Gang Jiang](https://scholar.google.com/citations?user=f3_FP8AAAAAJ&hl=en) (IEEE Fellow) and Prof. [Zuxuan Wu](https://zxwu.azurewebsites.net/). Before this, I received my B.S. degree from [Tianjin University](https://en.tju.edu.cn/).  
 
 
 
