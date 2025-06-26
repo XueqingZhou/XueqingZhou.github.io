@@ -1,6 +1,6 @@
 # 🔥 News
-<!-- 加点表情包,直接复制图片即可  https://github.com/guodongxiaren/README/blob/master/emoji.md?tdsourcetag=s_pcqq_aiomsg -->
 
+- [Jun'2025] AID and MagicMotion accepted to [ICCV 2025](https://iccv.thecvf.com/).
 - [May'2025] Defended Ph.D. thesis and awarded Outstanding Graduates of Shanghai!
 - [May'2025] Achieved **550+** citations on Google Scholar and an h-index of **12**.
 - [Apr'2025] Released [MagicMotion](https://quanhaol.github.io/magicmotion-site/) and achieved **100+** Github stars.
