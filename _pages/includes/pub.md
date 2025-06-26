@@ -41,6 +41,11 @@ A full publication list is available on <a href="https://scholar.google.com/cita
 </span>
 </div></div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Video Generation</div><img src='../../images/magicmotion.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+ <strong style="font-size:18px">MagicMotion: Controllable Video Generation with Dense-to-Sparse Trajectory Guidance </strong><br> <span style="font-weight:normal;font-size:16px">Quanhao Li*</span>, <strong style="font-size:16px">Zhen Xing*†<span style="font-weight:normal">, Rui Wang, Hui Zhang, Zuxuan Wu</span><br> <span style="font-weight:normal;font-size:16px">International Conference on Computer Vision (<strong>ICCV</strong>), 2025 </span><br> <span style="font-weight:normal;font-size:16px">[<a href="https://arxiv.org/pdf/2503.16421">Paper</a>][<a href="https://github.com/quanhaol/MagicMotion/">Code</a>][<a href="https://quanhaol.github.io/magicmotion-site/">HomePage</a>][<a href="https://mp.weixin.qq.com/s/oGI4NIkVv9xV-pC19LLc3g">量子位</a>]
+</span>
+</div></div>
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Video Generation</div><img src='../../images/simda.jpg' alt="sym" width="100%"></div></div>
@@ -63,11 +68,6 @@ A full publication list is available on <a href="https://scholar.google.com/cita
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Video Generation</div><img src='../../images/magicmotion.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
- <strong style="font-size:18px">MagicMotion: Controllable Video Generation with Dense-to-Sparse Trajectory Guidance </strong><br> <span style="font-weight:normal;font-size:16px">Quanhao Li*</span>, <strong style="font-size:16px">Zhen Xing*†<span style="font-weight:normal">, Rui Wang, Hui Zhang, Zuxuan Wu</span><br> <span style="font-weight:normal;font-size:16px">International Conference on Computer Vision (<strong>ICCV</strong>), 2025 </span><br> <span style="font-weight:normal;font-size:16px">[<a href="https://arxiv.org/pdf/2503.16421">Paper</a>][<a href="https://github.com/quanhaol/MagicMotion/">Code</a>][<a href="https://quanhaol.github.io/magicmotion-site/">HomePage</a>][<a href="https://mp.weixin.qq.com/s/oGI4NIkVv9xV-pC19LLc3g">量子位</a>]
-</span>
-</div></div>
 
 
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Video Generation</div><img src='../../images/animatemaster.png' alt="sym" width="100%"></div></div>
