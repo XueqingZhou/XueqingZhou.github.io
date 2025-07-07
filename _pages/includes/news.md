@@ -1,8 +1,8 @@
 # 🔥 News
 
+- [Jul'2025] Achieved **600+** citations on Google Scholar and an h-index of **12**.
 - [Jun'2025] AID and MagicMotion accepted to [ICCV 2025](https://iccv.thecvf.com/).
 - [May'2025] Defended Ph.D. thesis and awarded Outstanding Graduates of Shanghai!
-- [May'2025] Achieved **550+** citations on Google Scholar and an h-index of **12**.
 - [Apr'2025] Released [MagicMotion](https://quanhaol.github.io/magicmotion-site/) and achieved **100+** Github stars.
 - [Feb'2025] StableAnimator accepted to [CVPR 2025](https://cvpr.thecvf.com/) and achieved **1300+** Github stars.
 - [Sep'2024] **Two** papers accepted to [NeurIPS 2024](https://neurips.cc/Conferences/2024).
