@@ -1,15 +1,14 @@
 # 🔥 News
-
-- <img alt="Static Badge" src="https://img.shields.io/badge/Jul-2025-8A2BE2?style=plastic&labelColor=fbbc05&color=615ced" style="display: inline;"> Achieved **600+** citations on Google Scholar and an h-index of **12**.
-- <img alt="Static Badge" src="https://img.shields.io/badge/Jun-2025-8A2BE2?style=plastic&labelColor=fbbc05&color=615ced" style="display: inline;"> AID and MagicMotion accepted to [ICCV 2025](https://iccv.thecvf.com/).
-- <img alt="Static Badge" src="https://img.shields.io/badge/May-2025-8A2BE2?style=plastic&labelColor=fbbc05&color=615ced" style="display: inline;"> Defended Ph.D. thesis and awarded Outstanding Graduates of Shanghai!
-- <img alt="Static Badge" src="https://img.shields.io/badge/Apr-2025-8A2BE2?style=plastic&labelColor=fbbc05&color=615ced" style="display: inline;"> Released [MagicMotion](https://quanhaol.github.io/magicmotion-site/) and achieved **100+** Github stars.
-- <img alt="Static Badge" src="https://img.shields.io/badge/Feb-2025-8A2BE2?style=plastic&labelColor=fbbc05&color=615ced" style="display: inline;"> StableAnimator accepted to [CVPR 2025](https://cvpr.thecvf.com/) and achieved **1300+** Github stars.
-- <img alt="Static Badge" src="https://img.shields.io/badge/Sep-2024-8A2BE2?style=plastic&labelColor=fbbc05&color=615ced" style="display: inline;"> **Two** papers accepted to [NeurIPS 2024](https://neurips.cc/Conferences/2024).
-- <img alt="Static Badge" src="https://img.shields.io/badge/Aug-2024-8A2BE2?style=plastic&labelColor=fbbc05&color=615ced" style="display: inline;"> "A Survey on Video Diffusion Models" accepted to ACM Computing Surveys.
-- <img alt="Static Badge" src="https://img.shields.io/badge/Feb-2024-8A2BE2?style=plastic&labelColor=fbbc05&color=615ced" style="display: inline;"> Invited talk at Openmmlab about Video Generation Models, [[slides](/files/VideoGenerationModel.pdf)].
-- <img alt="Static Badge" src="https://img.shields.io/badge/Feb-2024-8A2BE2?style=plastic&labelColor=fbbc05&color=615ced" style="display: inline;"> SimDA accepted to [CVPR 2024](https://cvpr.thecvf.com/).
-- <img alt="Static Badge" src="https://img.shields.io/badge/Dec-2023-8A2BE2?style=plastic&labelColor=fbbc05&color=615ced" style="display: inline;"> Invited talk at Kunlun Research, "A Survey on Video Diffusion Models".
-- <img alt="Static Badge" src="https://img.shields.io/badge/Aug-2023-8A2BE2?style=plastic&labelColor=fbbc05&color=615ced" style="display: inline;"> Awarded certificate of "Star of Tomorrow" at [MSRA](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/).
-- <img alt="Static Badge" src="https://img.shields.io/badge/Feb-2023-8A2BE2?style=plastic&labelColor=fbbc05&color=615ced" style="display: inline;"> **Two** papers accepted to [CVPR 2023](https://cvpr2023.thecvf.com/).
-- <img alt="Static Badge" src="https://img.shields.io/badge/Jul-2022-8A2BE2?style=plastic&labelColor=fbbc05&color=615ced" style="display: inline;"> **Three** papers accepted to [ECCV 2022](https://eccv2022.ecva.net/).
+- [Jul'2025] Achieved **600+** citations on Google Scholar and an h-index of **12**.
+- [Jun'2025] AID and MagicMotion accepted to [ICCV 2025](https://iccv.thecvf.com/).
+- [May'2025] Defended Ph.D. thesis and awarded Outstanding Graduates of Shanghai!
+- [Apr'2025] Released [MagicMotion](https://quanhaol.github.io/magicmotion-site/) and achieved **100+** Github stars.
+- [Feb'2025] StableAnimator accepted to [CVPR 2025](https://cvpr.thecvf.com/) and achieved **1300+** Github stars.
+- [Sep'2024] **Two** papers accepted to [NeurIPS 2024](https://neurips.cc/Conferences/2024).
+- [Aug'2024] "A Survey on Video Diffusion Models" accepted to ACM Computing Surveys.
+- [Feb'2024] Invited talk at Openmmlab about Video Generation Models, [[slides](/files/VideoGenerationModel.pdf)].
+- [Feb'2024] SimDA accepted to [CVPR 2024](https://cvpr.thecvf.com/).
+- [Dec'2023] Invited talk at Kunlun Research, "A Survey on Video Diffusion Models".
+- [Aug'2023] Awarded certificate of "Star of Tomorrow" at [MSRA](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/).
+- [Feb'2023] **Two** papers accepted to [CVPR 2023](https://cvpr2023.thecvf.com/).
+- [July'2022] **Three** papers accepted to [ECCV 2022](https://eccv2022.ecva.net/).
