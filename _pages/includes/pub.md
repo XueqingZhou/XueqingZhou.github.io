@@ -53,7 +53,7 @@ A full publication list is available on <a href="https://scholar.google.com/cita
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Video Generation</div><img src='../../images/simda.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-<img alt="Static Badge" src="https://img.shields.io/badge/CVPR-2025-8A2BE2?style=plastic&labelColor=fbbc05&color=615ced" style="display: inline;">
+<img alt="Static Badge" src="https://img.shields.io/badge/CVPR-2024-8A2BE2?style=plastic&labelColor=fbbc05&color=615ced" style="display: inline;">
 <strong style="font-size:18px">SimDA: A Simple Diffusion Adapter for Efficient Video Generation</strong><br> 
 <strong style="font-size:16px">Zhen Xing<span style="font-weight:normal">, Qi Dai, Han Hu, Zuxuan Wu, Yu-Gang Jiang</span><br>
  <span style="font-weight:normal;font-size:16px">IEEE/CVF Conference on Computer Vision and Pattern Recognition (<strong>CVPR</strong>), 2024 </span><br> 
