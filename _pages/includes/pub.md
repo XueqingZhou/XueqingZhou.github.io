@@ -140,7 +140,7 @@ A full publication list is available on <a href="https://scholar.google.com/cita
 </div></div>
 
 - ​**StableAnimator++: Overcoming Pose Misalignment and Face Distortion for Human Image Animation​**​  
-  Shuyuan Tu, ​**​Zhen Xing​**​, Xintong Han, Zhi-Qi Cheng, Qi Dai, Chong Luo, Zuxuan Wu, Yu-Gang Jiang
+  Shuyuan Tu, ​**​Zhen Xing​**​, Xintong Han, Zhi-Qi Cheng, Qi Dai, Chong Luo, Zuxuan Wu, Yu-Gang Jiang  
   <img alt="Static Badge" src="https://img.shields.io/badge/Arixv-2025-8A2BE2?style=plastic&labelColor=fbbc05&color=615ced" style="display: inline;">, [[Paper](https://arxiv.org/abs/2507.15064)]
 
 - ​**​AdaDiff: Adaptive Step Selection for Fast Diffusion​**​  
