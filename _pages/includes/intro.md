@@ -5,7 +5,6 @@
 I obtained my Ph.D. degree in Computer Science from [Fudan University](https://www.fudan.edu.cn/en/), supervised by Prof. [Yu-Gang Jiang](https://scholar.google.com/citations?user=f3_FP8AAAAAJ&hl=en) (IEEE Fellow) and Prof. [Zuxuan Wu](https://zxwu.azurewebsites.net/). Before this, I received my B.S. degree from [Tianjin University](https://en.tju.edu.cn/).  
 
 
-
 I have published 20+ papers <a href='https://scholar.google.com/citations?user=yuiXa5EAAAAJ'><img alt="Google citations"  src="https://raw.githubusercontent.com/ChenHsing/Citation_Parser/main/scholar_badge.svg" style="display: inline;"></a> <a href="https://github.com/ChenHsing">
     <img alt="GitHub User's stars" 
          src="https://img.shields.io/github/stars/chenhsing?affiliations=OWNER%2CCOLLABORATOR&style=flat&logo=github&logoColor=%23000000&labelColor=%23fbbc05&color=%23615ced"  
