@@ -2,3 +2,46 @@
 
 {% include analytics.html %}
 {% include fetch_google_scholar_stats.html %}
+<script>
+// Theme toggle
+(function(){
+  var key = 'site-theme';
+  function applyTheme(t){
+    document.documentElement.setAttribute('data-theme', t);
+    try{ localStorage.setItem(key, t); }catch(e){}
+  }
+  var saved = null;
+  try{ saved = localStorage.getItem(key); }catch(e){}
+  if(saved){ applyTheme(saved); }
+  document.addEventListener('click', function(e){
+    if(e.target && e.target.id === 'theme-toggle'){
+      e.preventDefault();
+      var current = document.documentElement.getAttribute('data-theme') || 'light';
+      applyTheme(current === 'light' ? 'dark' : 'light');
+    }
+  });
+})();
+
+// Language toggle (EN/zh)
+(function(){
+  var key = 'site-lang';
+  function applyLang(l){
+    document.documentElement.setAttribute('data-lang', l);
+    try{ localStorage.setItem(key, l); }catch(e){}
+    var enNodes = document.querySelectorAll('[data-i18n="en"]');
+    var zhNodes = document.querySelectorAll('[data-i18n="zh"]');
+    enNodes.forEach(function(n){ n.style.display = (l==='en')?'' : 'none'; });
+    zhNodes.forEach(function(n){ n.style.display = (l==='zh')?'' : 'none'; });
+  }
+  var saved = null;
+  try{ saved = localStorage.getItem(key); }catch(e){}
+  applyLang(saved || 'en');
+  document.addEventListener('click', function(e){
+    if(e.target && e.target.id === 'lang-toggle'){
+      e.preventDefault();
+      var current = document.documentElement.getAttribute('data-lang') || 'en';
+      applyLang(current === 'en' ? 'zh' : 'en');
+    }
+  });
+})();
+</script>

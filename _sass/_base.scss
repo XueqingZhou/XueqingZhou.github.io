@@ -22,6 +22,27 @@ body {
   }
 }
 
+/* Theme variables and switching */
+:root[data-theme='light']{
+  --bg: #ffffff;
+  --fg: #111111;
+  --border: #e5e7eb;
+}
+:root[data-theme='dark']{
+  --bg: #0f0f10;
+  --fg: #e5e7eb;
+  --border: #26272b;
+}
+
+body{
+  background: var(--bg);
+  color: var(--fg);
+}
+
+.page, .masthead, .sidebar, .author__urls, .page__footer{
+  border-color: var(--border);
+}
+
 h1, h2, h3, h4, h5, h6 {
   margin: 1em 0 0.5em;
   line-height: 1.2;

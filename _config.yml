@@ -18,12 +18,13 @@ baidu_site_verification  : # code-ZxFK3f4pfb
 author:
   name             : "Xueqing Zhou" # (xingzhen)
   avatar           : "images/zxq.jpg"
-  bio              : "Research Scientist in Alibaba Tongyi Lab"
+  bio              : "Research Scientist in Ant Group"
   location         : "China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=yuiXa5EAAAAJ&hl=en&oi=ao"
-  email            : "zhenxingfd@gmail.com"
+  googlescholar    :
+  show_googlescholar: true
+  email            : "alancurry1456@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
