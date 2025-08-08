@@ -1,24 +1,5 @@
-<!-- 加点表情包,直接复制图片即可  https://github.com/guodongxiaren/README/blob/master/emoji.md?tdsourcetag=s_pcqq_aiomsg -->
+# About Me
 
+Xueqing works on multimodal synthetic data and algorithm evaluation at Ant Group. He received his M.S. in Computer Science from Fudan University, advised by Prof. [Yu-Gang Jiang](https://scholar.google.com/citations?user=f3_FP8AAAAAJ&hl=zh-CN) (IEEE Fellow) and Prof. [Jingjing Chen](https://scholar.google.com/citations?user=DfWdqzQAAAAJ&hl=zh-CN&oi=ao), where he was a member of the [Fudan Vision and Learning Laboratory (FVL)](https://fvl.fudan.edu.cn/). He received his B.Eng. in Civil Engineering from Tongji University.
 
-
-I obtained my Ph.D. degree in Computer Science from [Fudan University](https://www.fudan.edu.cn/en/), supervised by Prof. [Yu-Gang Jiang](https://scholar.google.com/citations?user=f3_FP8AAAAAJ&hl=en) (IEEE Fellow) and Prof. [Zuxuan Wu](https://zxwu.azurewebsites.net/). Before this, I received my B.S. degree from [Tianjin University](https://en.tju.edu.cn/).  
-
-
-I have published 20+ papers <a href='https://scholar.google.com/citations?user=yuiXa5EAAAAJ'><img alt="Google citations"  src="https://raw.githubusercontent.com/ChenHsing/Citation_Parser/main/scholar_badge.svg" style="display: inline;"></a> <a href="https://github.com/ChenHsing">
-    <img alt="GitHub User's stars" 
-         src="https://img.shields.io/github/stars/chenhsing?affiliations=OWNER%2CCOLLABORATOR&style=flat&logo=github&logoColor=%23000000&labelColor=%23fbbc05&color=%23615ced"  
-         style="display: inline;"></a>
- at the top international AI conferences such as CVPR, ICCV, ECCV, NeurIPS. My current research interests include:
-- 1️⃣ 🌟🌟🌟 Generative models: text-to-video generation, controllable visual generation, video editing
-- 2️⃣ Representation learning: video understanding, 3D understanding, image retrieval
-
-
-I will join Alibaba Tongyi Lab as a Research Scientist, dedicating myself to research on the video-generation model <a href="https://github.com/Wan-Video/Wan2.1"><img
-    alt="Wan"
-    src="../../images/wanlogo.png"
-    style="display: inline-block;
-      height: 1em;
-      width: auto;
-      vertical-align: text-bottom;"></a>.
-If you are interested in discussing potential collaborations, please feel free to email me at [zhenxingfd@gmail.com](mailto:zhenxingfd@gmail.com).
+His research interests include Machine Learning Systems, Large Language Models, AI Alignment, and Generative Models. If you are interested in potential collaborations, please feel free to email him at [alancurry1456@gmail.com](mailto:alancurry1456@gmail.com).
