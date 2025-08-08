@@ -1,8 +1,8 @@
 # Site Settings
-title                    : "Zhen Xing (邢桢)"
+title                    : "Xueqing Zhou"
 description              : #"Research Scientist in Alibaba Tongyi Lab"
                          # "An AI researcher, but more precisely, a realistic idealist searching for the purpose of life."
-repository               : "ChenHsing/chenhsing.github.io"
+repository               : "XueqingZhou/XueqingZhou.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -16,8 +16,8 @@ baidu_site_verification  : # code-ZxFK3f4pfb
 
 # Site Author
 author:
-  name             : "Zhen Xing" # (xingzhen)
-  avatar           : "images/xz.gif"
+  name             : "Xueqing Zhou" # (xingzhen)
+  avatar           : "images/zxq.jpg"
   bio              : "Research Scientist in Alibaba Tongyi Lab"
   location         : "China"
   employer         :
@@ -32,7 +32,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "ChenHsing"
+  github           : "XueqingZhou"
   google_plus      :
   keybase          :
   instagram        :
