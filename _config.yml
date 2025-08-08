@@ -22,8 +22,8 @@ author:
   location         : "China"
   employer         :
   pubmed           : 
-  googlescholar    :
-  show_googlescholar: true
+  googlescholar    : # "https://scholar.google.com/citations?user=yuiXa5EAAAAJ&hl=en&oi=ao"  # temporarily disabled
+  googlescholar_display : true  # show Google Scholar without link
   email            : "alancurry1456@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
