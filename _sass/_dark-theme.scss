@@ -1,5 +1,6 @@
 /* Dark theme styles */
-[data-theme="dark"] {
+/* Always-on dark styling (no theme toggle). */
+body {
   background-color: #1a1a1a;
   color: #e0e0e0;
 
