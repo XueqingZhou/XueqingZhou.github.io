@@ -30,8 +30,8 @@ function toggleLanguage() {
 
 // Initialize theme and language on page load
 document.addEventListener('DOMContentLoaded', function() {
-    // Initialize theme (default to light)
-    const savedTheme = localStorage.getItem('theme') || 'light';
+    // Initialize theme (default to dark)
+    const savedTheme = localStorage.getItem('theme') || 'dark';
     document.body.setAttribute('data-theme', savedTheme);
     
     // Initialize language

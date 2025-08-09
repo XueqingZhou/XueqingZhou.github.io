@@ -4,7 +4,7 @@
   color: #222222;
 
   .masthead {
-    background-color: #ffffff;
+    background-color: #ffffff !important;
     border-bottom: 1px solid #e6e6e6;
   }
 
@@ -48,8 +48,8 @@
   table { background-color: #ffffff; }
 }
 
-/* Default to light theme when no data-theme present */
-body:not([data-theme]), body[data-theme="light"] {
+/* Ensure full light palette when chosen */
+body[data-theme="light"] {
   background-color: #ffffff;
   color: #222222;
 }
