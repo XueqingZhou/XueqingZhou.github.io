@@ -4,9 +4,8 @@
 // Theme toggle functionality
 function toggleTheme() {
     const body = document.body;
-    const currentTheme = body.getAttribute('data-theme');
+    const currentTheme = body.getAttribute('data-theme') || 'light';
     const newTheme = currentTheme === 'dark' ? 'light' : 'dark';
-    
     body.setAttribute('data-theme', newTheme);
     localStorage.setItem('theme', newTheme);
 }
@@ -31,7 +30,7 @@ function toggleLanguage() {
 
 // Initialize theme and language on page load
 document.addEventListener('DOMContentLoaded', function() {
-    // Initialize theme
+    // Initialize theme (default to light)
     const savedTheme = localStorage.getItem('theme') || 'light';
     document.body.setAttribute('data-theme', savedTheme);
     
