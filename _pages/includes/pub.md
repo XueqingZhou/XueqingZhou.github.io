@@ -39,11 +39,11 @@ A full publication list is available on <a href="https://scholar.google.com/cita
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Transformer Architecture</div><img src='../../images/pde-transformer.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 <img alt="Static Badge" src="https://img.shields.io/badge/ArXiv-2025-8A2BE2?style=plastic&labelColor=fbbc05&color=615ced" style="display: inline;">
-<strong style="font-size:18px">PDE-Transformer: A Continuous Dynamical Systems Approach to Sequence Modeling</strong><br> <strong style="font-size:16px">Xueqing Zhou</strong><span style="font-weight:normal">, Yukun Zhang</span><br> <span style="font-weight:normal;font-size:16px">arXiv preprint, 2025 </span><br> <span style="font-weight:normal;font-size:16px">[<a href="https://arxiv.org/abs/2510.03272">Paper</a>]</span>
+<strong style="font-size:18px">PDE-Transformer: A Continuous Dynamical Systems Approach to Sequence Modeling</strong><br> <strong style="font-size:16px">Yukun Zhang*</strong><span style="font-weight:normal">, </span><strong style="font-size:16px">Xueqing Zhou*</strong><br> <span style="font-weight:normal;font-size:16px">arXiv preprint, 2025 </span><br> <span style="font-weight:normal;font-size:16px">[<a href="https://arxiv.org/abs/2510.03272">Paper</a>]</span>
 </div></div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Transformer Architecture</div><img src='../../images/understanding.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 <img alt="Static Badge" src="https://img.shields.io/badge/ArXiv-2024-8A2BE2?style=plastic&labelColor=fbbc05&color=615ced" style="display: inline;">
-<strong style="font-size:18px">Understanding Transformer Architecture through Continuous Dynamics: A Partial Differential Equation Perspective</strong><br> <strong style="font-size:16px">Xueqing Zhou</strong><span style="font-weight:normal">, Yukun Zhang</span><br> <span style="font-weight:normal;font-size:16px">arXiv preprint, 2024 </span><br> <span style="font-weight:normal;font-size:16px">[<a href="https://arxiv.org/abs/2408.09523">Paper</a>]</span>
+<strong style="font-size:18px">Understanding Transformer Architecture through Continuous Dynamics: A Partial Differential Equation Perspective</strong><br> <strong style="font-size:16px">Yukun Zhang*</strong><span style="font-weight:normal">, </span><strong style="font-size:16px">Xueqing Zhou*</strong><br> <span style="font-weight:normal;font-size:16px">arXiv preprint, 2024 </span><br> <span style="font-weight:normal;font-size:16px">[<a href="https://arxiv.org/abs/2408.09523">Paper</a>]</span>
 </div></div>
