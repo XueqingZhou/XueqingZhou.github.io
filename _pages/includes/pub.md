@@ -1,49 +1,12 @@
-<style>
-    .image-container {
-        position: relative;
-        display: inline-block;
-    }
-    .label {
-        position: absolute;
-        top: 4px;
-        left: 4px;
-        background-color: rgba(0, 0, 255, 0.7); /* 蓝色背景，透明度为0.7 */
-        color: white;
-        padding: 4px 8px;
-        font-size: 12px;
-        border-radius: 4px;
-    }
-    img {
-        display: block;
-    }
-</style>
+<span class='anchor' id='publications'></span>
 
+## Selected Publications
 
-# 📝 Publications 
-<!-- 加点表情包,直接复制图片即可  https://github.com/guodongxiaren/README/blob/master/emoji.md?tdsourcetag=s_pcqq_aiomsg -->
+Full list: [[Google Scholar](https://scholar.google.com/citations?user=Gdp0CIwAAAAJ&hl=en&oi=ao)] ·
+[[Semantic Scholar](https://www.semanticscholar.org/author/Xueqing-Zhou/2363598820)]
 
-
-A full publication list is available on <a href="https://scholar.google.com/citations?user=Gdp0CIwAAAAJ&hl=en&oi=ao">[Google Scholar]</a> <a href="https://www.semanticscholar.org/author/Xueqing-Zhou/2363598820">[Semantic Scholar]</a>
-
-(*: equal contribution; †: project leader)
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Transformer Architecture</div><img src='../../images/continuous-time-attention.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-<img alt="Static Badge" src="https://img.shields.io/badge/EMNLP-2025-8A2BE2?style=plastic&labelColor=fbbc05&color=615ced" style="display: inline;">
-<strong style="font-size:18px" >Continuous-Time Attention: PDE-Guided Mechanisms for Long-Sequence Transformers</strong><br> <strong style="font-size:16px">Yukun Zhang*</strong><span style="font-weight:normal">, </span><strong style="font-size:16px">Xueqing Zhou*</strong><br> <span style="font-weight:normal;font-size:16px">Conference on Empirical Methods in Natural Language Processing (<strong>EMNLP</strong>), 2025</span><br> <span style="font-weight:normal;font-size:16px">[<a href="https://aclanthology.org/2025.emnlp-main.1097.pdf">Paper</a>][<a href="https://xueqingzhou.github.io/Continuous-Time-Attention/">Project</a>][<a href="https://github.com/XueqingZhou/Continuous-Time-Attention">Code</a>]</span><br> <span style="color: red;"> A PDE-guided formulation of self-attention that treats token interactions as trajectories of a continuous-time dynamical system, improving long-sequence modeling efficiency and stability.
-</span>
-</div>
-</div>
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Transformer Architecture</div><img src='../../images/pde-transformer.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-<img alt="Static Badge" src="https://img.shields.io/badge/ArXiv-2025-8A2BE2?style=plastic&labelColor=fbbc05&color=615ced" style="display: inline;">
-<strong style="font-size:18px">PDE-Transformer: A Continuous Dynamical Systems Approach to Sequence Modeling</strong><br> <strong style="font-size:16px">Yukun Zhang*</strong><span style="font-weight:normal">, </span><strong style="font-size:16px">Xueqing Zhou*</strong><br> <span style="font-weight:normal;font-size:16px">arXiv preprint, 2025 </span><br> <span style="font-weight:normal;font-size:16px">[<a href="https://arxiv.org/abs/2510.03272">Paper</a>]</span>
-</div></div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Transformer Architecture</div><img src='../../images/understanding.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-<img alt="Static Badge" src="https://img.shields.io/badge/ArXiv-2024-8A2BE2?style=plastic&labelColor=fbbc05&color=615ced" style="display: inline;">
-<strong style="font-size:18px">Understanding Transformer Architecture through Continuous Dynamics: A Partial Differential Equation Perspective</strong><br> <strong style="font-size:16px">Yukun Zhang*</strong><span style="font-weight:normal">, </span><strong style="font-size:16px">Xueqing Zhou*</strong><br> <span style="font-weight:normal;font-size:16px">arXiv preprint, 2024 </span><br> <span style="font-weight:normal;font-size:16px">[<a href="https://arxiv.org/abs/2408.09523">Paper</a>]</span>
-</div></div>
+(*: equal contribution; †: project leader)\n\n
+<div class='paper-box'>\n  <div class='paper-box-image'>\n    <div>\n      <div class=\"badge\">Multimodal Reasoning</div>\n      <img src='/images/papers/2602_15580.svg' alt='How Vision Becomes Language thumbnail' width='100%'>\n    </div>\n  </div>\n  <div class='paper-box-text' markdown=\"1\">\n    <img alt='Static Badge' src='https://img.shields.io/badge/arXiv-2026-8A2BE2?style=plastic&labelColor=fbbc05&color=615ced' style='display: inline;'>\n    <strong style='font-size:18px'>How Vision Becomes Language: A Layer-wise Information-Theoretic Analysis of Multimodal Reasoning</strong><br>\n    <span style='font-weight:normal;font-size:16px'>Hongxuan Wu, Yukun Zhang, <strong>Xueqing Zhou</strong></span><br>\n    <span style='font-weight:normal;font-size:16px'>arXiv preprint, 2026</span><br>\n    <span style='font-weight:normal;font-size:16px'>[<a href='https://arxiv.org/abs/2602.15580'>Paper</a>]</span><br>\n    <span style='color: #b40000;'>\n      <strong>TL;DR:</strong> A layer-wise PID framework + causal attention knockouts that quantify multimodal “vision → language” transduction; reveals late-layer language dominance (~82%) and consistently low cross-modal synergy (&lt;2%), offering actionable diagnostics for architecture bottlenecks.\n    </span>\n  </div>\n</div>\n\n
+<div class='paper-box'>\n  <div class='paper-box-image'>\n    <div>\n      <div class=\"badge\">Long-Context Systems</div>\n      <img src='/images/papers/cta_emnlp25.svg' alt='Continuous-Time Attention thumbnail' width='100%'>\n    </div>\n  </div>\n  <div class='paper-box-text' markdown=\"1\">\n    <img alt='Static Badge' src='https://img.shields.io/badge/EMNLP-2025-8A2BE2?style=plastic&labelColor=fbbc05&color=615ced' style='display: inline;'>\n    <strong style='font-size:18px'>Continuous-Time Attention: PDE-Guided Mechanisms for Long-Sequence Transformers</strong><br>\n    <span style='font-weight:normal;font-size:16px'><strong>Yukun Zhang*</strong>, <strong>Xueqing Zhou*</strong></span><br>\n    <span style='font-weight:normal;font-size:16px'>EMNLP 2025 (Main)</span><br>\n    <span style='font-weight:normal;font-size:16px'>[<a href='https://aclanthology.org/2025.emnlp-main.1097.pdf'>Paper</a>][<a href='https://xueqingzhou.github.io/Continuous-Time-Attention/'>Project</a>][<a href='https://github.com/XueqingZhou/Continuous-Time-Attention'>Code</a>]</span><br>\n    <span style='color: #b40000;'>\n      <strong>TL;DR:</strong> Reframes attention as a continuous-time PDE evolution and maintains an evidence-first implementation pipeline (benchmarks, profiler traces, Triton kernels, serving-oriented hooks) for long-context efficiency.\n    </span>\n  </div>\n</div>\n\n
+<div class='paper-box'>\n  <div class='paper-box-image'>\n    <div>\n      <div class=\"badge\">Local-Global Composition</div>\n      <img src='/images/papers/2510_03272.svg' alt='Where to Add PDE Diffusion thumbnail' width='100%'>\n    </div>\n  </div>\n  <div class='paper-box-text' markdown=\"1\">\n    <img alt='Static Badge' src='https://img.shields.io/badge/arXiv-2026-8A2BE2?style=plastic&labelColor=fbbc05&color=615ced' style='display: inline;'>\n    <strong style='font-size:18px'>Where to Add PDE Diffusion in Transformers</strong><br>\n    <span style='font-weight:normal;font-size:16px'>Yukun Zhang, <strong>Xueqing Zhou</strong></span><br>\n    <span style='font-weight:normal;font-size:16px'>arXiv preprint, 2025–2026</span><br>\n    <span style='font-weight:normal;font-size:16px'>[<a href='https://arxiv.org/abs/2510.03272'>Paper</a>]</span><br>\n    <span style='color: #b40000;'>\n      <strong>TL;DR:</strong> Shows diffusion and attention generally do not commute; insertion position becomes a structural choice: early diffusion improves LRA (+4.1 avg), while post-attention diffusion can hurt (−2.5), matching operator-theoretic predictions.\n    </span>\n  </div>\n</div>\n\n
+<div class='paper-box'>\n  <div class='paper-box-image'>\n    <div>\n      <div class=\"badge\">Theory / Mechanistic Probe</div>\n      <img src='/images/papers/2408_09523.svg' alt='Understanding Transformer Architecture thumbnail' width='100%'>\n    </div>\n  </div>\n  <div class='paper-box-text' markdown=\"1\">\n    <img alt='Static Badge' src='https://img.shields.io/badge/arXiv-2024-8A2BE2?style=plastic&labelColor=fbbc05&color=615ced' style='display: inline;'>\n    <strong style='font-size:18px'>Understanding Transformer Architecture through Continuous Dynamics: A Partial Differential Equation Perspective</strong><br>\n    <span style='font-weight:normal;font-size:16px'>Yukun Zhang, <strong>Xueqing Zhou</strong></span><br>\n    <span style='font-weight:normal;font-size:16px'>arXiv preprint, 2024 (revised 2025)</span><br>\n    <span style='font-weight:normal;font-size:16px'>[<a href='https://arxiv.org/abs/2408.09523'>Paper</a>]</span><br>\n    <span style='color: #b40000;'>\n      <strong>TL;DR:</strong> A continuous-dynamics lens that explains why residual connections and layer normalization are not “tricks” but stabilizers required to tame an otherwise unstable PDE-like deep system.\n    </span>\n  </div>\n</div>
