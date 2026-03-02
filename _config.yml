@@ -1,7 +1,6 @@
 # Site Settings
 title                    : "Xueqing Zhou"
-description              : #"Research Scientist in Alibaba Tongyi Lab"
-                         # "An AI researcher, but more precisely, a realistic idealist searching for the purpose of life."
+description              : "Algorithm–system co-design for long-context and efficient architectures."
 repository               : "XueqingZhou/XueqingZhou.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -18,7 +17,7 @@ baidu_site_verification  : # code-ZxFK3f4pfb
 author:
   name             : "Xueqing Zhou" # (xingzhen)
   avatar           : "images/zxq.jpg"
-  bio              : "Research Scientist in Ant Group"
+  bio              : "Algorithm–system co-design · long-context · efficient architectures"
   location         : "China"
   employer         :
   pubmed           : 
